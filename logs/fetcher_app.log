@@ -1,0 +1,10 @@
+2024-05-26 12:54:59,735 - INFO - Request successful: https://www.motionelements.com/v2/search/video?currency=EUR&language=en&page=2&per_page=50&sort=popular&facetarray=1&cat=41 - 200
+2024-05-26 12:55:00,018 - INFO - Request successful: https://www.motionelements.com/v2/search/video?currency=EUR&language=en&page=1&per_page=50&sort=popular&facetarray=1&cat=41 - 200
+2024-05-26 12:57:12,967 - INFO - Request successful: https://www.motionelements.com/v2/search/video?currency=EUR&language=en&page=2&per_page=50&sort=popular&facetarray=1&cat=41 - 200
+2024-05-26 12:57:13,019 - INFO - Request successful: https://www.motionelements.com/v2/search/video?currency=EUR&language=en&page=1&per_page=50&sort=popular&facetarray=1&cat=41 - 200
+2024-05-26 12:58:19,224 - INFO - Request successful: https://www.motionelements.com/v2/search/video?currency=EUR&language=en&page=3&per_page=50&sort=popular&facetarray=1&cat=38 - 200
+2024-05-26 12:58:20,435 - INFO - Request successful: https://www.motionelements.com/v2/search/video?currency=EUR&language=en&page=4&per_page=50&sort=popular&facetarray=1&cat=38 - 200
+2024-05-26 12:59:35,451 - ERROR - Response request failed: 
+2024-05-26 12:59:35,455 - ERROR - Response request failed: 
+2024-05-26 13:00:39,222 - INFO - Request successful: https://www.motionelements.com/v2/search/video?currency=EUR&language=en&page=3&per_page=50&sort=popular&facetarray=1&cat=38 - 200
+2024-05-26 13:00:39,326 - INFO - Request successful: https://www.motionelements.com/v2/search/video?currency=EUR&language=en&page=4&per_page=50&sort=popular&facetarray=1&cat=38 - 200

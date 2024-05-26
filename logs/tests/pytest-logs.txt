@@ -1,0 +1,13 @@
+2024-05-20 21:26:38 DEBUG Using proactor: IocpProactor
+2024-05-20 21:26:38 DEBUG Using proactor: IocpProactor
+2024-05-20 21:26:38 ERROR Proxy http://20.193.154.130:8888 failed: Server disconnected
+2024-05-20 21:26:38 ERROR Proxy http://192.73.244.36:80 failed: 400, message='Bad Request', url=URL('http://192.73.244.36:80')
+2024-05-20 21:26:38 ERROR Proxy http://54.233.119.172:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-20 21:26:38 INFO Proxy http://20.111.54.16:8123 working
+2024-05-20 21:26:38 ERROR Proxy http://37.27.81.120:80 failed: 400, message='Bad Request', url=URL('http://37.27.81.120:80')
+2024-05-20 21:26:38 ERROR Proxy http://123.30.154.171:7777 failed: 400, message='Bad Request', url=URL('http://123.30.154.171:7777')
+2024-05-20 21:26:39 ERROR Proxy http://54.179.44.51:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-20 21:26:39 ERROR Proxy http://216.137.184.253:80 failed: 500, message='Internal Server Error', url=URL('http://216.137.184.253:80')
+2024-05-20 21:26:39 ERROR Proxy http://52.65.193.254:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-20 21:26:48 ERROR Proxy http://185.201.8.166:80 failed: 
+2024-05-20 21:26:48 DEBUG Using proactor: IocpProactor

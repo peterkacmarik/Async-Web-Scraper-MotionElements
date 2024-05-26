@@ -1,0 +1,67 @@
+2024-05-26 12:55:00,021 - INFO - *** Total time to fetch: 0:00:04.405360 ***
+
+2024-05-26 12:55:00,024 - INFO - *** Total time to scrape: 0:00:00.002440 ***
+
+2024-05-26 12:55:00,026 - INFO - *** Total time to fetch and scrape pages: 0:00:04.410040 ***
+
+2024-05-26 12:55:00,349 - INFO - *** Total time to check new items: 0:00:00.322183 ***
+
+2024-05-26 12:55:00,350 - ERROR - Error in run_main:
+Traceback (most recent call last):
+  File "c:\Users\PeKa\Python\scraping\async-web-scraper-motionelements\app.py", line 131, in startup
+    raise RuntimeError("*** No DataFrame found. ***")
+RuntimeError: *** No DataFrame found. ***
+2024-05-26 12:57:01,439 - INFO - *** Total time to test proxies: 0:00:30.764712 ***
+
+2024-05-26 12:57:13,019 - INFO - *** Total time to fetch: 0:00:11.576937 ***
+
+2024-05-26 12:57:13,019 - INFO - *** Total time to scrape: 0:00:00 ***
+
+2024-05-26 12:57:13,019 - INFO - *** Total time to fetch and scrape pages: 0:00:42.344660 ***
+
+2024-05-26 12:57:13,206 - INFO - *** Total time to check new items: 0:00:00.186972 ***
+
+2024-05-26 12:57:13,206 - ERROR - Error in run_main:
+Traceback (most recent call last):
+  File "c:\Users\PeKa\Python\scraping\async-web-scraper-motionelements\app.py", line 131, in startup
+    raise RuntimeError("*** No DataFrame found. ***")
+RuntimeError: *** No DataFrame found. ***
+2024-05-26 12:58:14,434 - INFO - *** Total time to test proxies: 0:00:30.428101 ***
+
+2024-05-26 12:58:20,442 - INFO - *** Total time to fetch: 0:00:06.002857 ***
+
+2024-05-26 12:58:20,443 - ERROR - Error in run_main:
+Traceback (most recent call last):
+  File "c:\Users\PeKa\Python\scraping\async-web-scraper-motionelements\app.py", line 104, in startup
+    list_urls: Dict = DataScraper()._get_url(json_data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PeKa\Python\scraping\async-web-scraper-motionelements\scraper\data_scraper.py", line 116, in _get_url
+    category_id: int = categories[0].get("id")
+                       ~~~~~~~~~~^^^
+IndexError: list index out of range
+2024-05-26 12:59:05,348 - INFO - *** Total time to test proxies: 0:00:31.926908 ***
+
+2024-05-26 12:59:35,456 - INFO - *** Total time to fetch: 0:00:30.107754 ***
+
+2024-05-26 12:59:35,456 - ERROR - Error in run_main:
+Traceback (most recent call last):
+  File "c:\Users\PeKa\Python\scraping\async-web-scraper-motionelements\app.py", line 104, in startup
+    list_urls: Dict = DataScraper()._get_url(json_data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PeKa\Python\scraping\async-web-scraper-motionelements\scraper\data_scraper.py", line 99, in _get_url
+    start_point: List[Dict[str, Any]] = data.get('data')
+                                        ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+2024-05-26 13:00:19,447 - INFO - *** Total time to test proxies: 0:00:30.141835 ***
+
+2024-05-26 13:00:39,328 - INFO - *** Total time to fetch: 0:00:19.878540 ***
+
+2024-05-26 13:00:39,330 - ERROR - Error in run_main:
+Traceback (most recent call last):
+  File "c:\Users\PeKa\Python\scraping\async-web-scraper-motionelements\app.py", line 104, in startup
+    list_urls: Dict = DataScraper()._get_url(json_data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PeKa\Python\scraping\async-web-scraper-motionelements\scraper\data_scraper.py", line 116, in _get_url
+    category_id: int = categories[0].get("id")
+                       ~~~~~~~~~~^^^
+IndexError: list index out of range
