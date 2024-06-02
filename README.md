@@ -103,6 +103,7 @@ async-web-scraper-motionelements/
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
+This project is for educational purposes only. Always respect the terms of use of the websites you are scraping.
 
 ## License
 
